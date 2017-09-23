@@ -20,5 +20,10 @@ function makeInt(n){
   return parseInt(n)
 }
 function makeInt(n){
+  if n = integer {
+  return parseInt(n)
+}
+else {
   return parseInt('n', 10)
+}
 }
